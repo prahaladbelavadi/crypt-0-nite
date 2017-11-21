@@ -2,4 +2,4 @@
 A repository of articles on applied cryptography.
 
 ### Main:
-- [Medium](medium.com/@prahaladbelavadi)
+- [Medium @prahaladbelavadi](https://medium.com/@prahaladbelavadi)
