@@ -72,4 +72,26 @@ Scratch Notes
 
 ***
 
-Attacks:
+### Attacks:
+- Cipher text only attack
+- Known plaintext model
+  - To find decryption key
+- Chosen plain text model
+  - Plain text is chosen
+  - Obj: to find decryption key
+- Chosen cipher text attack
+  - both cipler text and plain text are chosen
+- Distinguishing attack goal
+  - Obj: To defend against distinguishing attack
+- Information leakage
+- Side channel attack
+- Collision Attacks:
+  - Birthday Attack
+  - Meet in the middle attack
+- Moore's law
+- Security level:
+  - Exhaustive search attack 
+  - Performance security
+  - Reduce complexity:
+  - Keep it simple Silly principle
+  - Modularity
