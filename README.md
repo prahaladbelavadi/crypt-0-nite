@@ -17,6 +17,14 @@ A repository of articles on applied cryptography.
   - One time pad
   - Perfect Secrecy
   - PseudoRandom Generators
+  - XOR bitwise operation
+    - Why XOR and not AND or OR
+  - XOR and one time pad
+  - Fundamental theorem of arithmetic
+  - Public Key cryptography
+  - Discrete Logarithm problem
+  - Diffie-Hellman Key exchange
+  
   
   
 - Understanding the RSA cryptosystem
