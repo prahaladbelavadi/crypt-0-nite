@@ -3,6 +3,7 @@ A repository of articles on applied cryptography.
 
 ### Main:
 - [Medium @prahaladbelavadi](https://medium.com/@prahaladbelavadi)
+- [Medium @Crypt-0-nite](https://medium.com/crypto-0-nite)
 
 ### Resoruces:
 - [Cryptography Engineering](./cryptography-engineering/index.md)
