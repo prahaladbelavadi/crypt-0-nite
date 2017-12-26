@@ -28,7 +28,7 @@ A repository of articles on applied cryptography.
   - Public Key cryptography
   - Discrete Logarithm problem
   - Diffie-Hellman Key exchange
-  
+  - [Shamir's Secret Sharing WIKI](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing)
   
   
 - Understanding the RSA cryptosystem
